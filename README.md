@@ -33,4 +33,4 @@ RELACIÓN DE ELEMENTOS DE HARDWARE PREVISTOS:
     ·Sensor de ultrasonidos
     
 TECNOLOGÍAS Y HERRAMIENTAS SOFTWARE PREVISTAS
--Arduino, Processing
+-Arduino, Processing, C
